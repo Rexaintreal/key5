@@ -151,7 +151,7 @@ Before you can use Key5 to log keyboard inputs and upload the log file to Dropbo
 
 ## Author
 
-Object Tales was created by [Saurabh Tiwari](https://github.com/Rexaintreal). 
+Key5 was created by [Saurabh Tiwari](https://github.com/Rexaintreal). 
 
 - [Email](mailto:saurabhtiwari7986@gmail.com)
 
